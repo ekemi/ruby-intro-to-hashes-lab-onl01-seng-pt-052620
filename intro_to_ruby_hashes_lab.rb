@@ -1,4 +1,5 @@
-def new_hash
+def new_hash(empt_hash)
+	return empt_hash
 
 end
 
